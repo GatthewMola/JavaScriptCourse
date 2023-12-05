@@ -1,3 +1,9 @@
-const interestRate = 0.3;
-interestRate = 1;
-console.log(interestRate);
+let a = 'red';
+let b = 'blue';
+
+let c = a;
+a = b;
+b = c;
+
+console.log(a);
+console.log(b);
