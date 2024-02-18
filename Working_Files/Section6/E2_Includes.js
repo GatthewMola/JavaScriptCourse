@@ -1,4 +1,4 @@
-// Write a function that behave like the includes method. (Essentiall recreate the includes method constructor function_.)
+// Write a function that behaves like the includes method. (Essentially recreate the includes method constructor function.)
 const numbers = [1, 2, 3, 4];
 
 console.log(numbers.includes(1));

@@ -18,7 +18,7 @@ function move(array, index, offset) {
 // Current output is returning an empty array.
 // If change arguments to "1, 2", returns: [ [ 1, 2, 3, 4 ], [ 1, 2, 3, 4 ] ]. Strange.
 
-// Second Attempt with Hints: Need to remove the chosn index and add it back into the offset position
+// Second Attempt with Hints: Need to remove the chosen index and add it back into the offset position
 const output2 = move2(numbers, 1, 2);
 console.log(output2);
 
